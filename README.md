@@ -19,7 +19,7 @@ Topics may include (but are not restricted to) the following:
 6. How can qualitative methods retain their significance and validity within the rapidly evolving field of computational social science, especially in studies of conflict and narrative?
 
 ## Keynote Speaker 🎤
-**Yilang Peng**, Assistant Professor, University of Georgia, USA
+[**Yilang Peng**, Assistant Professor, University of Georgia, USA](https://yilangpeng.com/) 
 
 ## Submission Details ✍️
 Researchers interested in participating should submit a paper title with a 250-300 word abstract addressing one or more workshop themes.

@@ -1,7 +1,3 @@
-Here's your content reformatted in Markdown with emphasis on key information and appropriate links:
-
----
-
 # Call for Papers: Sharpening Analytic Instruments of Narrative Contestation During Conflicts
 **Date**: November 7-8, 2024  
 **Location**: Freie Universität Berlin, Germany  

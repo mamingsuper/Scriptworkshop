@@ -1,7 +1,7 @@
 # Call for Papers: Sharpening Analytic Instruments of Narrative Contestation During Conflicts
 **Date**: November 7-8, 2024  
 **Location**: Freie Universität Berlin, Germany  
-**Organizers**: Professor Alexander Libman, Professor Genia Kostka, Dr. Tomoko Okada, and Dr. Ma Ming
+**Organizers**: Professor Alexander Libman, Freie Universität Berlin; Professor Genia Kostka, Freie Universität Berlin; Dr. Tomoko Okada, Postdoctoral Researcher, WZB, Script; Dr. Ma Ming, Postdoctoral Researcher, Freie Universität Berlin
 
 ## Theme 🌍
 We are witnessing increasingly intense conflicts across various regions- from the Russo-Ukrainian War on the Eurasian continent to the ongoing disputes between Israel and Palestine in the Middle East, as well as the heightened tensions between China and the Philippines in the Western Pacific. Amid these conflicts, different parties have been crafting diverse and (commonly) contradictory narratives to shape global politics and public opinion. This “narrative warfare” has invisibly but intensely amplified the impact of these conflicts on the ground. For instance, the conflicts between Israel and Hamas have exacerbated polarization in the U.S., leading to significant protests at American universities. Therefore, it is imperative to investigate the construction, dissemination, and reception of narratives during conflicts.
